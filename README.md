@@ -40,7 +40,7 @@ I realized that the number of training data can affect accuracy.
 
 ## Conclusion
 ### 1. Classification
-![dissimilar](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Classification_of_Pattern_Images/dissimilar.jpg){: width="60%" height="60%"}
+![dissimilar](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Classification_of_Pattern_Images/dissimilar.jpg)
 
 
 ## Reference
