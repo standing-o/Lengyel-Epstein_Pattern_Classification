@@ -3,13 +3,13 @@
 
 ## Dataset
 - Patterns in Lengyel-Epstein model created by MATLAB.
+[patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/pattern.jpg)
 
-
-## Process
-1. Chemical prepattern and reaction-diffusion models for pigmentation  
+## Process - Presentation
+1. Chemical prepattern and reaction-diffusion models for pigmentation [20200115](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
     : Lengyel-Epstein equation in 1D with MATLAB  
       
-2. Creating the pattern images(2D) based on Lengyel-Epstein model with MATLAB  
+2. Creating the pattern images(2D) based on Lengyel-Epstein model with MATLAB [20200212](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/2.%2020200212.pdf)  
     : To classify 3 dissimilar patterns through a Neural Network  
       
 3. Gradient Descent  
