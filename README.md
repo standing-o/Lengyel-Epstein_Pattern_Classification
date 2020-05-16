@@ -5,7 +5,7 @@
 - Patterns in Lengyel-Epstein model created by MATLAB.
 
 ## Process
-1. Chemical prepattern and reaction-diffusion models for pigmentation
+1. Chemical prepattern and reaction-diffusion models for pigmentation  
     : Lengyel-Epstein equation in 1D with MATLAB
 2. Creating the pattern images(2D) based on Lengyel-Epstein model with MATLAB
 3. Gradient Descent
@@ -13,7 +13,7 @@
 5. Gradient feature in affine layer
 6. Adam regularization
 7. Compare 10 cases
-8. Complex Pattern in a simple system
+8. Complex Pattern in a simple system  
     : Pearson's Classification of Gray-Scott System Parameter Values
 9. Clustering
 
