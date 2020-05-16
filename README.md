@@ -18,7 +18,7 @@ __6. Gradient feature in affine layer__
 __7. Adam regularization__    
 __8. PCA (Principle Component Analysis)__    
     : I don't think this will help reduce over-fitting.  
-+ I realized that the number of training data can affect accuracy.    
+I realized that the number of training data can affect accuracy.    
 __9. Compare 10 cases__    
     : When classifying images that are not similar, the accuracy of 9th model was good. But not in similar images.  
 __10. Classification of all patterns__    
