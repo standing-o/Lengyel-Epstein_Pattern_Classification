@@ -39,7 +39,8 @@ I realized that the number of training data can affect accuracy.
 12. Clustering - k-means [[20200511]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/12.%2020200511.pdf)  
 
 ## Conclusion
-### 1. Classification
+### 1. Classification  
+[[20200413]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 ![dissimilar](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Classification_of_Pattern_Images/dissimilar.jpg)
 
 
