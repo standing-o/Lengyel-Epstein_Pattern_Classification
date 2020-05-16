@@ -2,7 +2,7 @@
 - In scientific computing lab, this is my first machinelearning project.
 
 ## Dataset
-- Patterns in Lengyel-Epstein model created by MATLAB. [Detail](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Lengyel-Epstein_patterns)  
+- Patterns in Lengyel-Epstein model created by MATLAB. [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Lengyel-Epstein_patterns)  
 ![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/pattern.jpg)
 
 ## Process - Presentation
