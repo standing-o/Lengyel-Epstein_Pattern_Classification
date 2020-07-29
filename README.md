@@ -73,7 +73,7 @@ where $\sigma$ is activation function.
 
 ## Conclusion
 ### 1. Classification  
-- Dissimilar patterns
+- Dissimilar patterns  
 |Feature|Gradient Descent|Adam|Features|Gradient Descent|Adam|
 |---|---|---|---|---|---|
 |$X$|0.36|0.42|& X and $\nabla X$|0.42|0.44|
