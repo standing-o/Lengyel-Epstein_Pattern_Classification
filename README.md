@@ -97,7 +97,7 @@ where $\sigma$ is activation function.
 ![all](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg)  
 
 - Visualization of all36patterns in a three-dimensional space. Thepoints in same cluster are represented by same color. One point per pattern isvisualized.  
-![kmeans](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg)  
+![kmeans](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg)
 ![agg](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg)  
 
 ## Reference
