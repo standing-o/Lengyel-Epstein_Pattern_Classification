@@ -74,11 +74,11 @@ where $\sigma$ is activation function.
 ## Conclusion
 ### 1. Classification  
 - Dissimilar patterns  
-|Feature|Gradient Descent|Adam|Features|Gradient Descent|Adam|
-|---|---|---|---|---|---|
-|$X$|0.36|0.42|& X and $\nabla X$|0.42|0.44|
-|$\nabla X$|0.40|0.36|X and $X-X^3$|0.40|0.36|
-|$X-X^3$|0.44|0.39|$\nabla X$ and $X-X^3$|0.90|0.90|
+|Feature|Gradient Descent|Adam|Features|Gradient Descent|Adam|  
+|---|---|---|---|---|---|  
+|$X$|0.36|0.42|& X and $\nabla X$|0.42|0.44|  
+|$\nabla X$|0.40|0.36|X and $X-X^3$|0.40|0.36|  
+|$X-X^3$|0.44|0.39|$\nabla X$ and $X-X^3$|0.90|0.90|  
 
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
