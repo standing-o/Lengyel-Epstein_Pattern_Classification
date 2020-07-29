@@ -1,6 +1,6 @@
 # MachineLearning with Patterns Based on Lengyel-Epstein model (20200115 ~ 20200730)
 - In scientific computing lab, this is my first machinelearning project.  
-We aim to present the insight of the classification for pattern images generated from the Turing models using machine learning with feature engineering.  
+- We aim to present the insight of the classification for pattern images generated from the Turing models using machine learning with feature engineering.  
 Our insight is applied to the image data generated from the PDEs using both NN and clustering methods such as k-means and agglomerative.  
 
 ## Dataset
