@@ -5,11 +5,8 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 
 ## Dataset
 ### Lengyel–Epstein (LE) model developed to describe the CIMA chemical reaction
- \begin{align}
- \frac{\partial u}{\partial t} &= D_u \Delta u + k_1 \left( v - \frac{uv}{1+v^2} \right), \\
- \frac{\partial v}{\partial t} &= D_v \Delta v + k_2 - v - \frac{4uv}{1+v^2},
- \end{align}  
- 
+![LE](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.jpg)  
+
 - Patterns in Lengyel-Epstein model created by MATLAB. [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Lengyel-Epstein_patterns)  
 ![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg)  
 
@@ -61,14 +58,7 @@ I realized that the number of training data can affect accuracy.
 Single layer Neural Network (NN) is used for the classification of the patterns.  
 We train a NN with a soft-max output layer comprising $3$ output nodes.
 The forward propagation is written:  
-\begin{align}
-  A &= \sigma(WX+b), \\
- A &= \sigma(W\nabla X+b), \\
- A &= \sigma(W(X-X^3)+b), \\
-  A &= \sigma(W_1X + W_2\nabla X + b), \\
-  A &= \sigma(W_1X + W_2(X-X^3) + b), \\
- A &= \sigma(W_1\nabla X + W_2(X-X^3) + b),
- \end{align}
+![eqs](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.jpg)  
 where $\sigma$ is activation function.
 
 
