@@ -86,7 +86,7 @@ where $\sigma$ is activation function.
 |---|---|---|
 |& X and $\nabla X$|0.42|0.44|
 |X and $X-X^3$|0.40|0.36|
-|$\nabla X$ and $X-X^3$|\*\*0.90\*\*|\*\*0.90\*\*|
+|$\nabla X$ and $X-X^3$|**0.90**|**0.90**|
 
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
