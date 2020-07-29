@@ -18,10 +18,10 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 <center><img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg" width="470" height="180"></center>
 
 ## Process - Presentation
-1. Chemical prepattern and reaction-diffusion models for pigmentation [[20200115]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
+> 1. Chemical prepattern and reaction-diffusion models for pigmentation [[20200115]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
     : Lengyel-Epstein equation in 1D with MATLAB  
       
-2. Creating the pattern images(2D) based on Lengyel-Epstein model with MATLAB [[20200212]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/2.%2020200212.pdf)  
+> 2. Creating the pattern images(2D) based on Lengyel-Epstein model with MATLAB [[20200212]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/2.%2020200212.pdf)  
     : To classify 3 dissimilar patterns through a Neural Network  
       
 3. Gradient Descent [[20200219]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/3.%2020200219.pdf)  
@@ -88,9 +88,15 @@ where $\sigma$ is activation function.
 |X and $X-X^3$|0.40|0.36|
 |$\nabla X$ and $X-X^3$|0.90|0.90|
 
-
-
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
+
+### 2. k-means and Agglomerative Clustering  
+- all 36 patterns  
+
+
+
+
+
 
 
 ## Reference
