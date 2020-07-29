@@ -68,8 +68,8 @@ The forward propagation is written:
 |Feature|Gradient Descent|Adam|
 |---|---|---|
 |X|0.36|0.42|
-|$$ \nabla X $$|0.40|0.36|
-|$$ X-X^3 $$|0.44|0.39|
+|$\nabla$ X|0.40|0.36|
+|X-$X^3$|0.44|0.39|
 
 |Features|Gradient Descent|Adam|
 |---|---|---|
