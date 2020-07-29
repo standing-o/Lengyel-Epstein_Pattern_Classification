@@ -56,11 +56,9 @@ I realized that the number of training data can affect accuracy.
 ## Architecture
 ### 1. Classification  
 Single layer Neural Network (NN) is used for the classification of the patterns.  
-We train a NN with a soft-max output layer comprising $3$ output nodes.
+We train a NN with a soft-max output layer comprising 3 output nodes.
 The forward propagation is written:  
 ![eqs](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png)  
-where $\sigma$ is activation function.
-
 
 ## Conclusion
 ### 1. Classification  
