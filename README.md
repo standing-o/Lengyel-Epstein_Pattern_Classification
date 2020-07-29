@@ -99,6 +99,7 @@ where $\sigma$ is activation function.
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color. One point per pattern is visualized.  
     1. k-means clustering  
     <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg" width="400" height="400">  
+    
     2. Agglomerative clustering  
     <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg" width="400" height="400">  
 
