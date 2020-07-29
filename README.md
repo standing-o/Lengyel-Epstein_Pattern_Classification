@@ -92,13 +92,15 @@ where $\sigma$ is activation function.
 
 ### 2. k-means and Agglomerative Clustering  
 - Feature Selection for clustering [[20200708]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  
-- Visualization of all36patterns as40points per pattern in a three-dimensional space.
+- Visualization of all 36patterns as 40 points per pattern in a three-dimensional space.
 
 ![all](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg)  
 
-- Visualization of all36patterns in a three-dimensional space. Thepoints in same cluster are represented by same color. One point per pattern isvisualized.  
-![kmeans](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg)
-![agg](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg)  
+- Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color. One point per pattern is visualized.  
+    1. k-means clustering
+    <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg" width="400" height="400">
+    2. Agglomerative clustering
+    <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg" width="400" height="400">
 
 ## Reference
 Othmer, Hans G., et al. "The intersection of theory and application in elucidating pattern formation in developmental biology." Mathematical modelling of natural phenomena 4.4 (2009): 3-82.
