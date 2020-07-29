@@ -14,8 +14,7 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 ![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg)  
 
 We choice dissimilar patterns for classification
-
-![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg){: width="50%" height="50%"}
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg" width="250" height="150">
 
 ## Process - Presentation
 1. Chemical prepattern and reaction-diffusion models for pigmentation [[20200115]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
