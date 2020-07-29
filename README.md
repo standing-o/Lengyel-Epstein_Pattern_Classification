@@ -58,8 +58,8 @@ I realized that the number of training data can affect accuracy.
 Single layer Neural Network (NN) is used for the classification of the patterns.  
 We train a NN with a soft-max output layer comprising 3 output nodes.
 The forward propagation is written:  
-![eqs](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png)  
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png" width="60%" height="60%">
+
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png" width="10%" height="10%">
 
 ## Conclusion
 ### 1. Classification  
