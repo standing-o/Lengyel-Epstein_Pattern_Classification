@@ -67,15 +67,15 @@ The forward propagation is written:
 
 |Feature|Gradient Descent|Adam|
 |---|---|---|
-|X|0.36|0.42|
-|$\nabla$ X|0.40|0.36|
-|X-$X^3$|0.44|0.39|
+|x|0.36|0.42|
+|nabla x|0.40|0.36|
+|x-x^3|0.44|0.39|
 
 |Features|Gradient Descent|Adam|
 |---|---|---|
-|& X and $\nabla X$|0.42|0.44|
-|X and $X-X^3$|0.40|0.36|
-|$\nabla X$ and $X-X^3$|**0.90**|**0.90**|
+|x and nabla x|0.42|0.44|
+|x and x-x^3|0.40|0.36|
+|nabla x and x-x^3|**0.90**|**0.90**|
 
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
