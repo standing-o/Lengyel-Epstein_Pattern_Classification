@@ -48,7 +48,7 @@ I realized that the number of training data can affect accuracy.
 11. Complex Pattern in a simple system [[20200504]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/11.%2020200504.pdf)  
     : Pearson's Classification of Gray-Scott System Parameter Values  
       
-> 12. $k$-means clustering [[20200511]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/12.%2020200511.pdf)  
+> 12. k-means clustering [[20200511]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/12.%2020200511.pdf)  
 
 13. Recall [[20200708]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/13.%2020200708.pdf)  
     : Recall the whole process
