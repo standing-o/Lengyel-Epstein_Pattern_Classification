@@ -59,7 +59,7 @@ Single layer Neural Network (NN) is used for the classification of the patterns.
 We train a NN with a soft-max output layer comprising $3$ output nodes.
 The forward propagation is written:  
 ![eqs](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png)  
-where \sigma is activation function.
+where $\sigma$ is activation function.
 
 
 ## Conclusion
