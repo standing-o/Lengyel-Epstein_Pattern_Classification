@@ -54,7 +54,7 @@ I realized that the number of training data can affect accuracy.
     : We use three features (mean of $X$, mean of $\nabla X$, variance of {$X-X^3$}) to visualize all patterns in a two and three-dimension
 
 ## Architecture
-### 1. Classification  
+### 1. Classification  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images)  
 Single layer Neural Network (NN) is used for the classification of the patterns.  
 We train a NN with a soft-max output layer comprising 3 output nodes.
 The forward propagation is written:  
@@ -80,12 +80,13 @@ The forward propagation is written:
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
 ### 2. k-means and Agglomerative Clustering  
-- Feature Selection for clustering [[20200708]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  
-- Visualization of all 36patterns as 40 points per pattern in a three-dimensional space.
+- Feature Selection for clustering [[presentation]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
+- Visualization of all 36 patterns as 40 points per pattern in a three-dimensional space.
 
 ![all](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg)  
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color. One point per pattern is visualized.  
+[[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)  
     1. k-means clustering  
     <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg" width="400" height="400">  
     
