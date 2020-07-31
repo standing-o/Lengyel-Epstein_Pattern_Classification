@@ -5,7 +5,7 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 
 ## Dataset
 ### Lengyel–Epstein (LE) model developed to describe the CIMA chemical reaction
-![LE](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.png)  
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.png" width="100%" height="100%">
 
 - Patterns in Lengyel-Epstein model created by MATLAB. [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Lengyel-Epstein_patterns)  
 ![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg)  
