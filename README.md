@@ -13,8 +13,7 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg?raw=True" width="65%">
 
 - We choice dissimilar patterns for classification
-
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg?raw=True" width="65%">
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg?raw=True" width="40%">
 
 ## Process - Presentation
 1. Chemical prepattern and reaction-diffusion models for pigmentation [[20200115]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
@@ -85,7 +84,7 @@ The forward propagation is written:
 - Feature Selection for clustering [[presentation]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
 - Visualization of all 36 patterns as 40 points per pattern in a three-dimensional space.
 
-![all](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg)  
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="50%">
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color. One point per pattern is visualized.  
 [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)  
