@@ -87,12 +87,14 @@ The forward propagation is written:
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="50%">
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color.  
-One point per pattern is visualized.  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)  
-1. k-means clustering  
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg" width="400" height="400">  
-    
-2. Agglomerative clustering  
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg" width="400" height="400">  
+One point per pattern is visualized.  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features) 
+- K-means clustering and Agglomerative clustering
+
+<div align="center">
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg" width="400" height="400">   
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg" width="400" height="400"> <br>
+</div>
+
 
 ## Reference
 Othmer, Hans G., et al. "The intersection of theory and application in elucidating pattern formation in developmental biology." Mathematical modelling of natural phenomena 4.4 (2009): 3-82.
