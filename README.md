@@ -5,10 +5,12 @@ Our insight is applied to the image data generated from the PDEs using both NN a
 
 ## Dataset
 ### Lengyel–Epstein (LE) model developed to describe the CIMA chemical reaction
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.png?raw=True" width="45%">
+<div align="center">
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.png?raw=True" width="30%">
 - Patterns in Lengyel-Epstein model created by MATLAB. [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Lengyel-Epstein_patterns)  
-![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg)  
 
+![patterns](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/pattern.jpg)  
+</div>
 - We choice dissimilar patterns for classification
 
 <center><img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg" width="470" height="180"></center>
