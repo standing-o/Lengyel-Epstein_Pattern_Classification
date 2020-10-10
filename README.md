@@ -87,15 +87,15 @@ The forward propagation is written:
 - Feature Selection for clustering [[presentation]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
 - Visualization of all 36 patterns as 40 points per pattern in a three-dimensional space.
 
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="65%">
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="40%">
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color.  
 One point per pattern is visualized.  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features) 
 - K-means clustering and Agglomerative clustering
 
 <div align="center">
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg?raw=True" width="45%">   
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg?raw=True" width="45%"> <br>
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/kmeans.jpg?raw=True" width="40%">   
+<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg?raw=True" width="40%"> <br>
 </div>
 
 
