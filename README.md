@@ -1,9 +1,10 @@
-# MachineLearning with Patterns Based on Lengyel-Epstein model (20200115 ~ 20200730)
+# MachineLearning with Patterns Based on Lengyel-Epstein model (20200115 ~ 20200730)  
+## : OH, SEOYOUNG, and SEUNGGYU LEE. "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
+### [Paper](http://ksiam-editor.s3.amazonaws.com/1601252749955-jksiam-2020v24p321.pdf)  
 - In scientific computing lab, this is my first machinelearning project.  
 - We aim to present the insight of the classification for pattern images generated from the Turing models using machine learning with feature engineering.  
 Our insight is applied to the image data generated from the PDEs using both NN and clustering methods such as k-means and agglomerative.  
-## : OH, SEOYOUNG, and SEUNGGYU LEE. "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
-### [Paper](http://ksiam-editor.s3.amazonaws.com/1601252749955-jksiam-2020v24p321.pdf)  
+
 
 ## Dataset
 ### Lengyel–Epstein (LE) model developed to describe the CIMA chemical reaction
