@@ -1,5 +1,5 @@
 # MachineLearning with Patterns Based on Lengyel-Epstein model (20200115 ~ 20200730)  
-## : OH, SEOYOUNG, and SEUNGGYU LEE. "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
+## OH, SEOYOUNG, and SEUNGGYU LEE. "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
 ### [Paper](http://ksiam-editor.s3.amazonaws.com/1601252749955-jksiam-2020v24p321.pdf) | [Code1](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images), [Code2](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)  
 - In scientific computing lab, this is my first machinelearning project.  
 - We aim to present the insight of the classification for pattern images generated from the Turing models using machine learning with feature engineering. 
