@@ -65,7 +65,7 @@ The forward propagation is written:
 
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png" width="25%" height="25%">
 
-## Conclusion
+## Results
 ### 1. Classification  
 - Dissimilar patterns 
 
@@ -100,4 +100,6 @@ One point per pattern is visualized.  [[code]](https://github.com/OH-Seoyoung/Ma
 
 
 ## Reference
-Othmer, Hans G., et al. "The intersection of theory and application in elucidating pattern formation in developmental biology." Mathematical modelling of natural phenomena 4.4 (2009): 3-82.
+```
+[1] Othmer, Hans G., et al. "The intersection of theory and application in elucidating pattern formation in developmental biology." Mathematical modelling of natural phenomena 4.4 (2009): 3-82.
+```
