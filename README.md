@@ -58,7 +58,7 @@ I realized that the number of training data can affect accuracy.
     : We use three features (mean of X, mean of nabla X, variance of X-X^3) to visualize all patterns in a two and three-dimension
 
 ## Architecture
-### 1. Classification  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images)  
+### 1. Classification  [[Code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images)  
 Single layer Neural Network (NN) is used for the classification of the patterns.  
 We train a NN with a soft-max output layer comprising 3 output nodes.
 The forward propagation is written:  
@@ -84,13 +84,13 @@ The forward propagation is written:
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
 ### 2. k-means and Agglomerative Clustering  
-- Feature Selection for clustering [[presentation]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
+- Feature Selection for clustering [[Presentation]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  [[Code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
 - Visualization of all 36 patterns as 40 points per pattern in a three-dimensional space.
 
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="40%">
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color.  
-One point per pattern is visualized.  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features) 
+One point per pattern is visualized.  [[Code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features) 
 - K-means clustering and Agglomerative clustering
 
 <div align="center">
