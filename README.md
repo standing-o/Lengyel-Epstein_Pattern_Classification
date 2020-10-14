@@ -55,7 +55,7 @@ I realized that the number of training data can affect accuracy.
     : Recall the whole process
 
 > **14**. Visualization [[20200708]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf)  
-    : We use three features (mean of $X$, mean of $\nabla X$, variance of {$X-X^3$}) to visualize all patterns in a two and three-dimension
+    : We use three features (mean of X, mean of nabla X, variance of X-X^3) to visualize all patterns in a two and three-dimension
 
 ## Architecture
 ### 1. Classification  [[code]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images)  
