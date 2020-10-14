@@ -66,20 +66,15 @@ The forward propagation is written:
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png" width="25%" height="25%">
 
 ## Results
-### 1. Classification  
-- Dissimilar patterns 
-
-|Feature|Gradient Descent|Adam|
+### 1. Classification with Dissimilar patterns   
+|Features|Gradient Descent|Adam|
 |---|---|---|
 |x|0.36|0.42|
 |nabla x|0.40|0.36|
 |x-x^3|0.44|0.39|
-
-|Features|Gradient Descent|Adam|
-|---|---|---|
 |x and nabla x|0.42|0.44|
 |x and x-x^3|0.40|0.36|
-|nabla x and x-x^3|**0.90**|**0.90**|
+|nabla x and x-x^3|**0.90**|**0.90**|  
 
 [[Detail]](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)  
 
