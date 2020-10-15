@@ -93,7 +93,6 @@ One point per pattern is visualized.  [[Code]](https://github.com/OH-Seoyoung/Ma
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/agg.jpg?raw=True" width="40%"> <br>
 </div>
 
-
 ## Reference
 ```
 [1] Othmer, Hans G., et al. "The intersection of theory and application in elucidating pattern formation in developmental biology." Mathematical modelling of natural phenomena 4.4 (2009): 3-82.
