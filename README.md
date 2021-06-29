@@ -18,7 +18,7 @@
 - We choice dissimilar patterns for classification
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/dissimilar_patterns.jpg?raw=True" width="40%">
 
-## Process - Presentation
+## Process
 **1**. Chemical prepattern and reaction-diffusion models for pigmentation | [Presentation](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/1.%2020200115.pdf)  
     : Lengyel-Epstein equation in 1D with MATLAB  
       
