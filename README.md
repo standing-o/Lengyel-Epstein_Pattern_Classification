@@ -67,7 +67,7 @@ The forward propagation is written:
 <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/equations.png" width="25%" height="25%">
 
 ## Results
-### 1. Classification with Dissimilar patterns   
+### 1. Classification with Dissimilar patterns | [Presentation](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf)   
 |Features|Gradient Descent|Adam|
 |---|---|---|
 |x|0.36|0.42|
@@ -77,7 +77,6 @@ The forward propagation is written:
 |x and x-x^3|0.40|0.36|
 |nabla x and x-x^3|**0.90**|**0.90**|  
 
-| [Presentation](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/9.%2020200413.pdf) |
 
 ### 2. k-means and Agglomerative Clustering  
 - Feature Selection for clustering | [Presentation](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/Presentation/14.%2020200715.pdf) | [Code](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Visualization_with_features)
