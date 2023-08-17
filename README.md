@@ -3,7 +3,7 @@
 - We aim to present the insight of the classification for pattern images generated from the Turing models using machine learning with feature engineering. Our insight is applied to the image data generated from the PDEs using both NN and clustering methods such as k-means and agglomerative.
 - Jan. 15, 2020 ~ Jul. 30, 2020
 
-## OH, SEOYOUNG, and [SEUNGGYU LEE](https://sites.google.com/view/sglee/professor). "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
+## SEOYOUNG OH, and [SEUNGGYU LEE](https://sites.google.com/view/sglee/professor). "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
 ### [Paper](http://ksiam-editor.s3.amazonaws.com/1601252749955-jksiam-2020v24p321.pdf) | [Code1](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images), [Code2](https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)  
 > **Abstract** Data classification and clustering is one of the most common applications of the machine learning. In this paper, we aim to provide the insight of the classification for Turing pattern image, which has high nonlinearity, with feature engineering using the machine learning without a multi-layered algorithm. For a given image data X whose fixel values are defined in [-1, 1], X-X<sup>3</sup> and ∇X would be more meaningful feature than X to represent the interface and bulk region for a complex pattern image data. Therefore, we use X-X3 and∇ X in the neural network and clustering algorithm to classification. The results validate the feasibility of the proposed approach.
 
