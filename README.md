@@ -19,14 +19,22 @@
 ## Dataset
 ### Lengyel–Epstein (LE) model developed to describe the CIMA chemical reaction
 
-<img src="https://github.com/standing-o/Machine_Learning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/LE.png?raw=True" width="30%">
+$$
+\frac{\delta u}{\delta t} = D_u \Delta u + k_1 \Big( v - \frac{uv}{1 + v^2} \Big),
+$$
 
-- Patterns in Lengyel-Epstein model created by MATLAB | [Code](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/tree/master/Lengyel-Epstein_patterns)  
+$$
+\frac{\delta v}{\delta t} = D_v \Delta v - k_2 \Big( v + \frac{4uv}{1 + v^2} \Big).
+$$
 
-<img src="https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/MD_images/pattern.jpg?raw=True" width="65%">
+
+- Patterns in Lengyel-Epstein model created by MATLAB | [Code](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/tree/master/Lengyel-Epstein_patterns)
+  
+  <img src="https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/MD_images/pattern.jpg?raw=True" width="50%">
 
 - We choice dissimilar patterns for classification
-<img src="https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/MD_images/dissimilar_patterns.jpg?raw=True" width="40%">
+
+  <img src="https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/MD_images/dissimilar_patterns.jpg?raw=True" width="40%">
 
 &nbsp;
 &nbsp;
@@ -77,11 +85,28 @@ I realized that the number of training data can affect accuracy.
 
 ## Architecture
 ### 1. Classification | [Code](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/tree/master/Classification_of_Pattern_Images)  
-Single layer Neural Network (NN) is used for the classification of the patterns.  
+- Single layer Neural Network (NN) is used for the classification of the patterns.  
 We train a NN with a soft-max output layer comprising 3 output nodes.
 The forward propagation is written:  
 
-<img src="https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/MD_images/equations.png" width="25%" height="25%">
+$$
+A = \sigma (WX + b),
+$$
+$$
+A = \sigma (W \nabla X + b),
+$$
+$$
+A = \sigma (W (X-X^3) + b),
+$$
+$$
+A = \sigma (W_1 X + W_2 \nabla X + b),
+$$
+$$
+A = \sigma (W_1 X + W_2 (X-X^3) + b),
+$$
+$$
+A = \sigma (W_1 \nabla X + W_2 (X-X^3) + b).
+$$
 
 &nbsp;
 &nbsp;
@@ -91,19 +116,19 @@ The forward propagation is written:
 ### 1. Classification with Dissimilar patterns | [Presentation](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/Presentation/9.%2020200413.pdf)   
 |Features|Gradient Descent|Adam|
 |---|---|---|
-|x|0.36|0.42|
-|nabla x|0.40|0.36|
-|x-x^3|0.44|0.39|
-|x and nabla x|0.42|0.44|
-|x and x-x^3|0.40|0.36|
-|nabla x and x-x^3|**0.90**|**0.90**|  
+|$X$|0.36|0.42|
+|$\nabla X$|0.40|0.36|
+|$X-X^3$|0.44|0.39|
+|$X$ and $\nabla X$|0.42|0.44|
+|$X$ and $X-X^3$|0.40|0.36|
+|$\nabla X$ and $X-X^3$|**0.90**|**0.90**|  
 
 
 ### 2. k-means and Agglomerative Clustering  
 - Feature Selection for clustering | [Presentation](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/blob/master/Presentation/14.%2020200715.pdf) | [Code](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/tree/master/Visualization_with_features)
 - Visualization of all 36 patterns as 40 points per pattern in a three-dimensional space.
 
-<img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="40%">
+  <img src="https://github.com/OH-Seoyoung/MachineLearning_with_Patterns_Based_on_Lengyel-Epstein_model/blob/master/MD_images/vis_all.jpg?raw=True" width="40%">
 
 - Visualization of all 36 patterns in a three-dimensional space. The points in same cluster are represented by same color.  
 One point per pattern is visualized. | [Code](https://github.com/standing-o/Lengyel-Epstein_Pattern_Classification/tree/master/Clustering_with_features) 
