@@ -9,9 +9,9 @@
 &nbsp;
 
 ## "EXTRACTING INSIGHTS OF CLASSIFICATION FOR TURING PATTERN WITH FEATURE ENGINEERING."  
-### [Paper](https://koreascience.kr/article/JAKO202028959353470.pdf) | [Code1](https://github.com/standing-o/Machine_Learning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images), [Code2](https://github.com/standing-o/Machine_Learning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)
+### [Paper](https://koreascience.kr/article/JAKO202028959353470.page) | [Code1](https://github.com/standing-o/Machine_Learning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Classification_of_Pattern_Images), [Code2](https://github.com/standing-o/Machine_Learning_with_Patterns_Based_on_Lengyel-Epstein_model/tree/master/Clustering_with_features)
 > **Abstract** Data classification and clustering is one of the most common applications of the machine learning. In this paper, we aim to provide the insight of the classification for Turing pattern image, which has high nonlinearity, with feature engineering using the machine learning without a multi-layered algorithm. For a given image data X whose fixel values are defined in [-1, 1], X-X<sup>3</sup> and ∇X would be more meaningful feature than X to represent the interface and bulk region for a complex pattern image data. Therefore, we use X-X3 and∇ X in the neural network and clustering algorithm to classification. The results validate the feasibility of the proposed approach.
-- This paper is accepted by `KSIAM` indexed in `KCI`.
+- This paper is accepted by `KSIAM` indexed in `ESCI`.
 
 
 &nbsp;
